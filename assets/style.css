@@ -349,7 +349,7 @@ body.menu-expanded button path {
 }
 
 #home img {
-  width: 60rem;
+  width: 34rem;
   display: block;
   /* para tirar o minimo detalhe da parte de baixo da imagem, pois tinha um espacinho em branco */
   margin-inline: auto;
@@ -728,7 +728,7 @@ footer .social-links {
   }
 
   #home img {
-    width: 32rem;
+    width: 37rem;
     object-fit: cover;
   }
   #home .wrapper .col-b {
@@ -738,7 +738,7 @@ footer .social-links {
 
   /* ======= SERVICES============================== */
   #services h2 {
-    width: 47rem;
+    width: 55rem;
     margin-inline: auto;
   }
 

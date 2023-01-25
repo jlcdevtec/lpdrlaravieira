@@ -13,7 +13,6 @@ function onScroll() {
   activateMenuAtCurrentSection(home);
   activateMenuAtCurrentSection(services);
   activateMenuAtCurrentSection(about);
-  activateMenuAtCurrentSection(contact);
 
   changeLogoColor();
   // activateMenuAtCurrentSection(services);
